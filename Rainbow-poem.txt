@@ -1,0 +1,7 @@
+These are the colors:
+Black
+Red
+Yellow
+Blue
+Green
+The end of the poem.
