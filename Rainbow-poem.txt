@@ -3,5 +3,6 @@ Black
 Red
 Yellow
 Blue
+Pink
 Green
 The end of the poem.
